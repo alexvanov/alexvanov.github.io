@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Alex Vañó Viñuales",
+    "label": "Scientist",
+    "image": "",
+    "email": "alex.vano.vinuales@tecnico.ulisboa.pt",
+    "phone": "",
+    "url": "https://alexvanov.github.io/",
+    "summary": "Physicist working at the interface between numerical and mathematical relativity, especially on the hyperboloidal initial value problem with conformal compactification methods.",
+    "location": {
+      "address": "Av. Rovisco Pais 1",
+      "postalCode": "1049-001",
+      "city": "Lisboa",
+      "countryCode": "Portugal"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GRIT, CENTRA, Instituto Superior Técnico (IST), University of Lisbon, Portugal",
+      "position": "Postdoc FCT",
+      "url": "https://centra.tecnico.ulisboa.pt/network/grit/",
+      "startDate": "2019-03-01",
+      "endDate": "present",
+      "summary": "FCT-funded postdoctoral position at 'Gravitation in Técnico', in the group led by Vítor Cardoso, José Lemos and David Hilditch. Teaching at the graduate level.",
+      "highlights": [
+        "Hyperboloidal evolutions and initial data"
+      ]
+    },
+    {
+      "name": "Gravity Exploration Institute at Cardiff University, United Kingdom",
+      "position": "Postdoctoral research associate",
+      "url": "https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/gravity-exploration-institute",
+      "startDate": "2015-10-01",
+      "endDate": "2019-02-28",
+      "summary": "ERC-funded postdoctoral associate position at the Gravitational Physics Group (now Gravity Exploration Institute), working mostly with Mark Hannam. Teaching at the undergraduate level.",
+      "highlights": [
+        "Initial data for numerical relativity simulations, gravitational waveforms"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Relativity and Gravitation Group, University of the Balearic Islands, Spain",
+      "url": "https://arxiv.org/abs/1512.00776",
+      "area": "Gravitational Physics",
+      "studyType": "PhD: 'Free evolution of the hyperboloidal initial value problem in spherical symmetry'",
+      "startDate": "2011-09-01",
+      "endDate": "2015-09-18",
+      "score": "Excellent Cum Laude",
+      "courses": [
+        "General relativity, numerical relativity, free hyperboloidal evolution"
+      ]
+    },
+    {
+      "institution": "Relativity and Gravitation Group, University of the Balearic Islands, Spain",
+      "url": "https://drive.google.com/file/d/0B8ZUHfy96pmmNDZiMWIxMmItODdkMi00NjQ4LWFjYzQtNGZkOTdmODZiZWFk/view?usp=drive_link&resourcekey=0-weg3EISlC2_fITTf32xHHA", 
+      "area": "Physics",
+      "studyType": "Master: 'Numerical evolution of the Einstein equations in spherical symmetry: the GBSSN equations and conformal compactification'",
+      "startDate": "2010-09-01",
+      "endDate": "2011-06-23",
+      "score": "Excellent",
+      "courses": [
+        "General relativity, numerical relativity, hyperboloidal, wave equation"
+      ]
+    },
+    {
+      "institution": "University of the Balearic Islands, Palma de Mallorca, Spain",
+      "url": "http://grg.uib.es/", 
+      "area": "4th year as Erasmus student at Friedrich-Schiller-Universität (FSU) Jena, Germany",
+      "studyType": "Degree in Physics",
+      "startDate": "2005-09-01",
+      "endDate": "2010-09-22",
+      "score": "3.39 of 4",
+      "courses": [
+        "Mathematical methods, Mechanics, Optics, Thermodynamics, Electrodynamics, Quantum Mechanics, Relativity, Statistical physics, ..."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honorable mention of the 2015 GWIC and Braccini Thesis Prizes",
+      "url": "https://gwic.ligo.org/thesis-prize.html#past-winners", 
+      "date": "2015",
+      "awarder": "Gravitational Wave International Committee",
+      "summary": ""
+    },
+    {
+      "title": "Degree Outstanding Award",
+      "url": "http://uib.eu/", 
+      "date": "2011-01-27",
+      "awarder": "University of the Balearic Islands",
+      "summary": "Recognition of exceptional performance in undergraduate studies."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "keywords": [
+        "Fortran", "C/C++","Python","PETSc","OpenMP","MPI"
+        ]
+      },
+    {
+      "name": "Experience with other software",
+      "level": "Master",
+      "keywords": [
+        "Mathematica", "LaTex", "Microsoft Office (Excel, Word, PowerPoint)", "Git/SVN", "Gimp/Photoshop"
+        ]
+      }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Welsh",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
