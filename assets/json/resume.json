@@ -3,7 +3,7 @@
     "name": "Alex Vañó Viñuales",
     "label": "Scientist",
     "image": "",
-    "email": "alex.vano.vinuales@tecnico.ulisboa.pt",
+    "email": "alex.vano@uib.es",
     "phone": "",
     "url": "https://alexvanov.github.io/",
     "summary": "Physicist working at the interface between numerical and mathematical relativity, especially on the hyperboloidal initial value problem with conformal compactification methods.",
@@ -22,12 +22,23 @@
     ]
   },
   "work": [
+      {
+      "name": "IAC3 Institute of Applied Computing & Community Code, Universitat de les Illes Balears, Spain",
+      "position": "Senior postdoc",
+      "url": "https://grg.uib.es/",
+      "startDate": "2025-03-01",
+      "endDate": "present",
+      "summary": "Senior postdoctoral position at the 'Relativity and Gravitation' group.",
+      "highlights": [
+        "Waveform modelling, numerical relativity with the Einstein Toolkit"
+      ]
+    },
     {
       "name": "GRIT, CENTRA, Instituto Superior Técnico (IST), University of Lisbon, Portugal",
       "position": "Postdoc FCT",
       "url": "https://centra.tecnico.ulisboa.pt/network/grit/",
       "startDate": "2019-03-01",
-      "endDate": "present",
+      "endDate": "2025-02-28",
       "summary": "FCT-funded postdoctoral position at 'Gravitation in Técnico', in the group led by Vítor Cardoso, José Lemos and David Hilditch. Teaching at the graduate level.",
       "highlights": [
         "Hyperboloidal evolutions and initial data"
