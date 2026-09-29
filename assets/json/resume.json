@@ -24,10 +24,21 @@
   "work": [
       {
       "name": "IAC3 Institute of Applied Computing & Community Code, Universitat de les Illes Balears, Spain",
+      "position": "Senior research fellow (Vicenç Mut programme)",
+      "url": "https://grg.uib.es/",
+      "startDate": "2025-10-15",
+      "endDate": "present",
+      "summary": "Senior research fellow at the 'Relativity and Gravitation' group.",
+      "highlights": [
+        "3D hyperboloidal evolutions, numerical relativity"
+      ]
+    },
+      {
+      "name": "IAC3 Institute of Applied Computing & Community Code, Universitat de les Illes Balears, Spain",
       "position": "Senior postdoc",
       "url": "https://grg.uib.es/",
       "startDate": "2025-03-01",
-      "endDate": "present",
+      "endDate": "2025-10-14",
       "summary": "Senior postdoctoral position at the 'Relativity and Gravitation' group.",
       "highlights": [
         "Waveform modelling, numerical relativity with the Einstein Toolkit"
